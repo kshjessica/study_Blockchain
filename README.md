@@ -1,6 +1,7 @@
 # [졸업프로젝트 Research] Blockchain
 
 Original Source Code: https://github.com/dvf/blockchain-book
+Referenced Article: https://medium.com/@vanflymen/learn-blockchains-by-building-one-117428612f46
 
 ## To Do
 
